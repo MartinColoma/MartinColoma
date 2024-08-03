@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://martincoloma.github.io/)
+[![MasterHead](https://github.com/user-attachments/assets/3c56479d-0eac-4b82-ae97-040f3ef54a9f)](https://martincoloma.github.io/)
 <h1 align="center">Hi 👋, I'm Martin Coloma</h1>
 <h3 align="center">Computer Engineering student from the Philippines</h3>
 <img align="right" alt="Coding" width-"40" src="https://cdn.dribbb1e.com/users/1162Ø7t7/screenshots/3848914/programmer.gif">
