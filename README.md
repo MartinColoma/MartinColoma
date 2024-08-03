@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/martin laurence coloma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin laurence coloma" height="30" width="40" /></a>
-<a href="https://fb.com/martin laurence coloma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martin laurence coloma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/martin-coloma1101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Martin Laurence Coloma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mrtn.clm20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martin laurence coloma" height="30" width="40" /></a>
 <a href="https://instagram.com/mrtn_columns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrtn_columns" height="30" width="40" /></a>
 </p>
 
