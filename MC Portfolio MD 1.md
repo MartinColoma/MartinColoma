@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://martincoloma.github.io/)
 <h1 align="center">Hi 👋, I'm Martin Coloma</h1>
 <h3 align="center">Computer Engineering student from the Philippines</h3>
-
+<img align="right" alt="Coding" width-"40" src="https://cdn.dribbb1e.com/users/1162Ø7t7/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martincoloma&label=Profile%20views&color=0e75b6&style=flat" alt="martincoloma" /> </p>
 
 - 🌱 I’m currently learning **web development**
@@ -24,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martincoloma&show_icons=true&locale=en&layout=compact" alt="martincoloma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martincoloma&show_icons=true&locale=en" alt="martincoloma" /></p>
-
